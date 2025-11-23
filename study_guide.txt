@@ -1,0 +1,27 @@
+Study Guide
+The quiz, interview, and take-home project will assess your knowledge of the Object-Oriented JavaScript course and the Object Oriented Programming with JavaScript book. Necessarily this will build on your knowledge of the JavaScript Fundamentals course.
+
+Specific Concepts of Interest
+You should be able to clearly explain and apply the following concepts:
+
+Objects
+Organizing code into appropriate objects
+Object factories
+Determining/setting function execution context (this)
+Implicit function execution context
+Explicit function execution context 
+Dealing with context loss
+Lexical scope
+Scope and Closures
+Higher-order functions
+Creating and using private data
+Garbage collection
+IIFEs
+Partial Function Application
+Object creation patterns
+class syntax
+Constructor functions
+Pseudo-Classical pattern
+Prototype objects
+Behavior delegation
+Modules
