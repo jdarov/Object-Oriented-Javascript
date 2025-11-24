@@ -74,8 +74,6 @@ This repo is organized into focused folders so you can quickly find exercises an
 - README.md
   - This file
 
-If you prefer slightly different folder names (for example using hyphens vs. underscores) or want additional top-level folders (solutions/, slides/, assets/), I can update the layout and README accordingly.
-
 ---
 
 ## Quick Examples
